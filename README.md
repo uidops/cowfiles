@@ -25,7 +25,7 @@ uidops@osx $ brew install cowsay
 uidops@freebsd $ pkg install cowsay
 ```
 
-You can also use **Lolcat** for coloring <br />
+You can also use <a href="https://github.com/busyloop/lolcat"><b>lolcat<b/></a> for coloring <br />
 
 Screenshot:
 	<br /><img src="https://github.com/siruidops/cowfiles/raw/master/img/a.png"><br />
