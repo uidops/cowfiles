@@ -23,7 +23,6 @@ uidops@gentoo $ emerge cowsay
 uidops@osx $ brew install cowsay
 
 uidops@freebsd $ pkg install cowsay
-$
 ```
 
 You can also use **Lolcat** for coloring <br />
