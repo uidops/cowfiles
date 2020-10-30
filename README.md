@@ -7,7 +7,7 @@
 
 Copy the files in the folder **cows** in the path **/usr/share/cows/** <br /> and <br /> use them with the command **cowsay -f {cowfile name without .cow} text**
 
-<br /></br>
+</br>
 
 Install cowsay:
 
