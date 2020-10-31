@@ -12,17 +12,17 @@ Copy the files in the folder **cows** in the path **/usr/share/cows/** <br /> an
 Install cowsay:
 
 ```bash
-uidops@debian $ sudo apt-get install cowsay
+uidops@debian$ sudo apt-get install cowsay
 
-uidops@arch $ sudo pacman -S cowsay
+uidops@arch$ sudo pacman -S cowsay
 
-uidops@fedora $ sudo dnf install cowsay
+uidops@fedora$ sudo dnf install cowsay
 
-uidops@gentoo $ emerge cowsay
+uidops@gentoo$ emerge cowsay
 
-uidops@osx $ brew install cowsay
+uidops@osx$ brew install cowsay
 
-uidops@freebsd $ pkg install cowsay
+uidops@freebsd$ pkg install cowsay
 ```
 
 You can also use <a href="https://github.com/busyloop/lolcat"><b>lolcat</b></a> for coloring <br />
